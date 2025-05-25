@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GONGHYEONGBAE
+- 👋 Hi, I’m @KONGHYEONGBAE
 - 👀I’m interested in web development, backend systems, and databases.
 - 🌱I’m currently learning Java, Spring Boot, REST API, and MySQL.  
 - 💞️ I’m looking to collaborate on open source Java backend projects.
